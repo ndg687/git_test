@@ -1,1 +1,2 @@
 TEXTO DE HELLO WORLD
+segunda linea del archivo a traves de terminal (nano)
